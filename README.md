@@ -3,23 +3,15 @@
 This is a project that is a part of the "PHP for Beginners -Become a PHP Master" taught by Edwin Diaz on Udemy.com
 Link: https://www.udemy.com/php-for-complete-beginners-includes-msql-object-oriented/learn/v4/overview
 
-The goal of this project is to practice the PHP and MYSQL Knowledge gained during the first part of the course. 
-At the end of the project, the CMS Website will have:
-
-- The full CRUD functionality of : Creating, Reading, Updating, and Deleting of posts, comments, and categories.
-- Will have fully fledged Account Creation and Login Functionality.
-- A Search bar to sort pages by their tags, author, or category.
-- An Admin area.
-- A Connection to a localhost database in order to store post data, login information, etc.
-- And more!!
+This course is designed to teach all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and the practicing that knowledge by building a CMS system similar to WordPress, Joomla or Drupal.
 
 The Course Project Sections:
 
 1. CMS Project / Blogging System - Front End and First Steps: Finished
   
-2. CMS - Categories & More...
+2. CMS - Categories & More... : Finished
 
-3. CMS - POSTS
+3. CMS - POSTS : Finished
 
 4. CMS - COMMENTS
 
